@@ -1,0 +1,42 @@
+/* Fixing Top banner */
+
+
+.top-banner {
+    background-color: black;
+    display: flex;
+    width: 80%;
+    height: 450px;
+    margin-top: 50px;
+    margin-left: 140px;
+    border-radius: 40px;
+}
+.half-width {
+    width: 50%;
+    color: white;
+    margin-left: 90px;
+    margin-right: 40px;
+    
+}
+.half-width img {
+    width: 100%;
+}
+.banner-discription {
+    margin-top: 40px;
+   
+}
+.banner-poster {
+    margin-top: 30px;
+}
+.banner-title {
+    font-size: 50px;
+    font-weight: 700;
+}
+.watch-live-link {
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 5px
+    
+
+}
